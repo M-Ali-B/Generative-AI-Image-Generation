@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06i44h",
-  "description": "https://scrimba.com/intro-to-dall-e-and-gpt-vision-c036/~09/s0qang6c6h/head",
+  "name": "Generative AI Image Generation",
+  "description": " Dall-E and GPT Vision Image generation challenge",
   "scripts": {
     "start": "vite",
     "dev": "vite",
